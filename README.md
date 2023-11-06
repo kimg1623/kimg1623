@@ -2,10 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=DCE19F&height=300&section=header&text=Jiwon%20Kim&fontSize=60" />
 
 ## 🛒 Tech Stack
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white" />
-<img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6db33f)?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a> 
 <br>
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/JSP-73398D?style=for-the-badge&logo=&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/JSP-73398D?style=for-the-badge&logo=&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white" />
+<img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/InteliJ IDEA-000000?style=for-the-badge&logo=InteliJ IDEA&logoColor=white"/></a> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">   
 <br>
