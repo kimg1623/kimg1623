@@ -1,5 +1,6 @@
 <!--### Hi there, I'm Jiwon Kim! 👋-->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=DCE19F&height=300&section=header&text=Jiwon%20Kim&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=DCE19F&height=300&section=header&text=Jiwon%20Kim&fontSize=60" /> <a href="https://hits.seeyoufarm.com">    
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimg1623&count_bg=%23688055&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ## 🛒 Tech Stack
 <img src="https://img.shields.io/badge/Spring-6db33f)?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a> 
@@ -45,7 +46,7 @@
 ## 🗂 Project
 제가 진행한 주요 프로젝트는 아래 고정 레포지토리에서 확인해주세요 :)     
 
-
+<br>
 <!--
 **kimg1623/kimg1623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
