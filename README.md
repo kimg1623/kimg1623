@@ -41,11 +41,12 @@
 <br><br>
 
 
+
+## 🗂 Project
+제가 진행한 주요 프로젝트는 아래 고정 레포지토리에서 확인해주세요 :)     
+
+
 <!--
-## Project
-
-
-
 **kimg1623/kimg1623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
