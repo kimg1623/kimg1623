@@ -34,7 +34,7 @@
 ## ⚡ Work and Study
 - (23.09~) Chunjae IT Education Center - Full-stack Developer Education
 - (22.07~23.05) TMD - Dept. Software Education Contents Development
-- (21.08~21.08) KT Internship - AI & Information Security
+- (21.06~21.08) KT Internship - AI & Information Security
 - (20.08~20.12) K-Shield Jr. - Incident Response Readiness & Assessment
 - (16.03~21.02) SWU - Bachelor of Engineering in Information Security
 
