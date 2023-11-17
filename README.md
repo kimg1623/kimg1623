@@ -1,6 +1,6 @@
 <!--### Hi there, I'm Jiwon Kim! 👋-->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=DCE19F&height=300&section=header&text=Jiwon%20Kim&fontSize=60" /> <a href="https://hits.seeyoufarm.com">    
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimg1623&count_bg=%23688055&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 
 ## ⚙ Main Skill
 <img src="https://img.shields.io/badge/Spring-6db33f)?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a> 
@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white" />
 <img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/InteliJ IDEA-000000?style=for-the-badge&logo=InteliJ IDEA&logoColor=white"/></a> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">   
+<img src="https://img.shields.io/badge/InteliJ IDEA-000000?style=for-the-badge&logo=InteliJ IDEA&logoColor=white"/></a> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>         
 
 <br><br>
 
@@ -24,16 +24,15 @@
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/></a> 
 <br>
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/></a> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"/></a> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/></a>
-<br>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>        
+
 
 <br><br>
 
 ## ⚡ Work and Study
-- (23.09~) Chunjae IT Education Center - Full-stack Developer Education
+- (23.09~) Chunjae IT Education Center - Full-stack Developer Course
 - (22.07~23.05) TMD - Dept. of Software Education Contents Development
 - (21.06~21.08) KT Internship - AI & Information Security
-- (20.08~20.12) K-Shield Jr. - Incident Response Readiness & Assessment
+- (20.08~20.12) K-Shield Jr. - Incident Response Readiness & Assessment Course
 - (16.03~21.02) SWU - Bachelor of Engineering in Information Security
 
 <br><br>
@@ -45,6 +44,8 @@
 
 <br>
 <!--
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimg1623&count_bg=%23688055&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 **kimg1623/kimg1623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
