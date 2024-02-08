@@ -8,6 +8,7 @@
 ## ⚙ Main Skill
 <div>
  <img src="https://img.shields.io/badge/Spring-6db33f)?style=for-the-badge&logo=Spring&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JSP-73398D?style=for-the-badge&logo=&logoColor=white"/>
 <br>
@@ -21,7 +22,6 @@
 
 ### ✨Polishing up
 <div>
-<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 </div>
