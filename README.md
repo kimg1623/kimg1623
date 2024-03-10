@@ -50,6 +50,7 @@
 - (16.03~21.02) SWU - Bachelor of Engineering in Information Security
 
 <br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimg1623&show_icons=true&locale=en" alt="kimg1623gitstat" /></p>
 
 
 
