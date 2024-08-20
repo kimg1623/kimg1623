@@ -22,6 +22,7 @@
 
 ### ✨Polishing up
 <div>
+<img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 </div>
@@ -43,6 +44,7 @@
 <br><br>
 
 ## ⚡ Work and Study
+- (24.05~ ing ) Chunjae Education - Dept. of Service Development
 - (23.09~24.03) Chunjae IT Education Center - Full-stack (Java) Developer Course
 - (22.07~23.05) TMD - Dept. of Software Education Contents Development
 - (21.06~21.08) KT Internship - AI & Information Security
