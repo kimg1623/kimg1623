@@ -44,7 +44,7 @@
 <br><br>
 
 ## ⚡ Work and Study
-- (24.05~ ing ) Chunjae Education - Dept. of Service Development
+- (24.05~ ing ) Chunjae Education - Dept. of IT Development
 - (23.09~24.03) Chunjae IT Education Center - Full-stack (Java) Developer Course
 - (22.07~23.05) TMD - Dept. of Software Education Contents Development
 - (21.06~21.08) KT Internship - AI & Information Security
